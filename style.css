@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+    color: #ff0095;
+}
+
+h2 {
+    background-color: cyan;
+    color: #ff0095;
+}
+
+p {
+    color: blueviolet;
+    font-size: 26px; 
+}
